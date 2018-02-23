@@ -1,80 +1,69 @@
-## Cluster Innovation Centre's Month of Code
+## Proximus Month of Code
 
 <h1 align="center">
-  <img src="https://github.com/duskybomb/CMoC/blob/master/Beta_white.png?raw=true" width ="512px" height ="auto">
+  <img src="https://github.com/proximus-coding-society/PMoC/blob/master/Proximus.jpg?raw=true" width ="512px" height ="auto">
 </h1>
 
-Cluster Innovation Centre's Month of Code, CMoC for short, is an online coding program organised by HashInclude, IT Society of Cluster Innovation Centre to celebrate open source, as well as guide students for the Google's Annual Programme, Google Summer of Code.  
+Proximus Coding Society is organizing a month long event similar to GSOC named as PMOC (Proximus Month of Code ). The main aim of this event is to introduce students to Open Source  as well as guide students for the Google's Annual Programme, Google Summer of Code and to work on some interesting projects.   
+
+This is organized with the help of [CMoC](https://github.com/clusterinnovationcentre/CMoC)
   
-All the selected students along with their allotted projects can be found here:  
-https://docs.google.com/spreadsheets/d/17WuROKFaEzArRDfp2h8DeHTn-DWbxPbsaI3TOZ3Lwwc/edit?usp=sharing
+All the selected students along with their allotted projects can be found here:  Declared on 5th March
 
 ### Timeline  
   
 <table>
+ <tr>
+     <td>PMoC TimeLine</td>
+     <td><center>--</center></td>
+     <td>GSOC TimeLine</td>
+ </tr>
   <tr>
-    <td>
-      10 January- 18 January
-    </td>
-    <td>
-      Mentor Registration 
-    </td>
+    <td><strike>12 February - 20 February</strike></td>
+    <td>Mentor Registration </td>
+      <td><strike>4 January - 23 January</strike></td>
   </tr>
   <tr>
-    <td>
-      <strike>20 January</strike>
-      21 January
-    </td>
-    <td>
-      Final Mentor List displayed
-    </td>
+      <td><strike>21 February</strike></td>
+    <td>Final Mentor List displayed</td>
+      <td><strike>12 February</strike> </td>
   </tr>
   <tr>
-    <td>
-      <strike>20 January </strike> 21 January  - 28 January
-    </td>
-    <td>
-      Student Registration  
-    </td>
+    <td>21 February  - 5 March</td>
+    <td>Student Registration  </td>
+    <td>12 March - 27 March</td>
   </tr>
   <tr>
-    <td>
-      01 February - 13 February 
-    </td>
-    <td>
-      First half of coding period and distribution of resources for GSoC
-    </td>
+    <td>5 March -  14 March</td>
+    <td>First half of coding period and distribution of resources for GSoC</td>
+    <td>14 May - 14 June</td>
   </tr>
   <tr>
-    <td>
-      14 February
-    </td>
-    <td>
-      Mid-Term evaluation and Valentine's day surprize!
-    </td>
+    <td>15 March</td>
+    <td>First evaluation!</td>
+    <td>15 June</td>
   </tr>
   <tr>
-    <td>
-      15 February - 28 February
-    </td>
-    <td>
-      Second half of coding period and further mentoring for GSoC
-    </td>
+    <td>16 March - 28 March</td>
+    <td>Second half of coding period </td>
+    <td>15 June - 12 July</td>
   </tr>
   <tr>
-    <td>
-      01 March - 05 March
-    </td>
-    <td>
-      Wrap up weekend with release of best performances, and an ending note
-    </td>
+      <td><center>--</center></td>
+      <td>Second Evaluation</td>
+      <td>13 July</td>
+  </tr>
+  <tr>
+    <td>29 March - 30 March</td>
+    <td>Project Submission</td>
+    <td>6 August - 14 August</td>
   </tr>
 </table>
   
 
 ### Objectives
 
-The objectives of this program are, 
+The objectives of PMoC are, 
 
 •  Introduce students to Free and Open Source Software.
 
@@ -82,68 +71,102 @@ The objectives of this program are,
 
 •  Teach the students about the required tools, such as GitHub. 
 
-•  Connect students to experienced GSoC developers who act as a mentor and guide them during this one month.
-
 •  Preparing them for the Google Summer of Code! 
 
 •  To revive or rejuvenate open source projects.
 
 
-### Manuals 
-
-The mentor manual can be found [ here ](https://drive.google.com/file/d/1U3g5JEL70MWFSpdk864NgAA_21gkbUV2/view?usp=sharing).  
-The student manual can be found [here](https://drive.google.com/file/d/1aZLLrRGyHBTnkwhpXNhZgAZmEliN7xPZ/view?usp=sharing)
 
 ### Registration
 
-Mentor Registration closed!  
+Mentor Registration : [Link](https://docs.google.com/forms/d/1AkPfEARJn9KIeCvsiBRN6c2-1jdesEElNCoM_OHmcno/edit)
 
-Student Registration closed!
+Student Registration : [Link](https://docs.google.com/forms/d/11FobWRD0NCcLZ_Bzc-dXz2QpgPVTNpo6Mq8HD3i7OUI/edit)
+
+### Sample Project Proposal
+[Sample](https://groups.drupal.org/node/459223)
 
 ### List of Projects available
 
-| Mentor                              | Project 1                                                      | Project 2                                                      | Project 3                                                               |
-|-----------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------------------------------|
-| Ankit Jain                        |[Open Chat](https://github.com/ankitjain28may/openchat) (PHP)                   | [Social Media Review Platform](https://github.com/ankitjain28may/Social-Media-Review-Platform) (PHP) | [Code Pad](https://github.com/ncs-jss/Code-Pad) (PHP)                                    |
-| Yash Nisar                        | [Coala Bears](https://github.com/coala/coala-bears) (Python, JAVA, C)                          | [Coala](https://github.com/coala/coala) (Python)                                  |                                                                         |
-| Carlos Toxtli                     |[Account Provisioning for Google Apps]( https://github.com/google/account-provisioning-for-google-apps)(Java, Android) | [Bots Workflow Designer](https://github.com/toxtli/bots-workflow-designer)(HTML, JavaScript, Python)               | [Facebook Chat API](https://github.com/Schmavery/facebook-chat-api                          )(NodeJS)|
-| Ankit Kumar                       | [Alchem](https://github.com/alchemsynergy/alchem) (JAVA)                       | [Helpline Services](https://github.com/Ankitkumar94/Helpline-Services) (JAVA)             |                                                                         |
-| Sushil Khanchi                    | [Smvdu Algorithms](https://github.com/khanchi97/Smvdu-Algos) (C++, C, Python, JAVA)                      |                                                                |                                                                         |
-| Dhruv Apte                        | [First Timers Guide](https://github.com/the-ethan-hunt/first-timers-guide)           | [SciRuby Examples](https://github.com/the-ethan-hunt/sciruby-examples) (Ruby, Machine Learning, Natural Processing Language)             | [Awesome Easter Eggs](https://github.com/the-ethan-hunt/awesome-easter-eggs)(General Programming)                   |
-| Pranit Bauva                      | [Git](http://github.com/git/git) (Shell, C)                                      |                                                                |                                                                         |
-| Athitya Kumar                     | [DashVis](https://github.com/athityakumar/dashvis) (Rails, Ruby on Rails)                       | [Coloris](https://github.com/athityakumar/colorls)(Ruby)                        |[TV Series](https://github.com/athityakumar/tvseries)(Ruby)                                |
-| Himanshu Kumar                    | [Address Validation](https://github.com/himanshukumar660/Address-Validation) (JavaScript)        | [Oxnary](https://github.com/himanshukumar660/Oxnary)(JavaScript)                     | [Vessel Tracking](https://github.com/himanshukumar660/Vessel-Tracking)(JavaScript)                    |
-| Aniq Ur Rahman                    | [Meme Retrieval Engine](https://github.com/Aniq55/MemeFinder)(Python, Machine Learning, Image Processing, Natural Language Processing, Shell Scripting)                          |                                                                |                                                                         |
-| Pritom Mazumdar                   | [Password Storage](https://github.com/Pritom14/Password-Storage)(JAVA, Android)                   | [Profile Changer](https://github.com/Pritom14/Profile-Changer)(JAVA, Android)                    | [GPS](https://github.com/Pritom14/Gps)(JAVA, Android)                                         |
-| Meet Udeshi                       | [Fast Playlist](https://github.com/udiboy1209/fast_playlist)(JavaScript, HTML)                    | [Fractal Creator](https://github.com/udiboy1209/fractal-creator)(Python)                  |                                                                         |
-| Alexey Bokov                      | Project not yet updated                |                                                                |                                                                         |
-| Sangi Naveen Kumar                | [PiZilla](https://github.com/nkprince007/pizilla)(Express, ReactJS)                         | [muZic](https://github.com/nkprince007/muzic-electron)(Node.js, electron, React.js, Redux)                  | [Mentor's list of repositories](https://github.com/nkprince007/)                                         |
-| Kenneth Benoit                    | [Quanteda](http://github.com/quanteda/quanteda)(Machine Learning, R)                            | [readtext](http://github.com/quanteda/readtext)(Quanteda, R, Text Encoding)                            |                                                                         |
-| Siddharth Kannan                  | [Rubik's Cube Timer of Command Line](https://github.com/icyflame/cli-cube-timer)(NodeJS)                    | [cutouts](https://github.com/icyflame/cutouts)(Ruby, Ruby on Rails)                            | [Awesome Social Science](https://github.com/icyflame/awesome-social-science)(Social Science)                      |
-| Nikhil Kumar Singh                | [PDF Audio Reader](https://github.com/nikhilkumarsingh/PDF_AUDIO_READER)(Python)           |                                                                |                                                                         |
-| Mayank Gupta                      | [Alchem](https://github.com/alchemsynergy/alchem)(JAVA, SQL)                        |                                                                |                                                                         |
-| Ashris Choudhury                  | [ArchDraw](https://github.com/iashris/archdraw)(p5js, jsfeat)                            | [Sky of Thoughts](https://github.com/iashris/skyofthoughts.github.io)(HTML, JavaScript)            |                                                                         |
-| Mazbaul Alam                      | [Projectv](https://github.com/Mazbaul/projectv)(LARAVEL, PHP)                            | [Event Reservation](https://github.com/Mazbaul/Event_reservation)(JavaScript, JSON)                   | [Online Learning and Course Management System](https://github.com/Mazbaul/Online-Learning-And-Course-Management-System)(JavaScript, JSON) |
-| Iury de Oliveira Gomes Figueiredo | [Sukhoi](https://github.com/iogf/sukhoi)(Python)                                 | [vy](https://github.com/iogf/vy)(Python)                                     | [crocs](https://github.com/iogf/crocs)(Python)                                           |
-| Abhinav Jain                      | [Mentor's list of repositories](https://github.com/AbhinavJain13)(Machine Learning, Python, Data Science, PHP, JavaScript)                               |                                                                |                                                                         |
-| Raphael Carubbi Neto              | [Carrubi.Cards](https://github.com/rcarubbi/Carubbi.Cards )(C#)                     | [Carrubi.Components](https://github.com/rcarubbi/Carubbi.Components)(C#)                 | [Carrubi.Package Tracker](https://github.com/rcarubbi/Carubbi.PackageTracker)(C#)                      |
-| Durgesh                           | Project not yet updated                                                            |                                                                |                                                                         |
-| Prateek Chanda                    | [Code, Sleep, Python](https://github.com/prateekiiest/Code-Sleep-Python)(Python)              |                                                                |                                                                         |
-| Amar Lakshya                      | [focusTV](https://github.com/amar-laksh/focusTV)(OpenCV, Python)                          | [Workstation](https://github.com/amar-laksh/workstation)(HTML)                      |                                                                         |
-| Adnan Kičin                       | [BuVRek](https://github.com/TheAdnan/BuVRek)(Three.js, A-Frame)                             | [Kirbas 100000](https://github.com/TheAdnan/Kirbas-100000)(HTML, JavaScript)                      | [Hadith of The Day](https://github.com/TheAdnan/hadith-of-the-day)(Python, Webextension)                           |
-| Raghav Dua                        | [Solium](https://github.com/duaraghav8/Solium)(Blockchain, JavaScript, Solidity, Ethereum)                           |                                                                |                                                                         |
-| Samundra Khatri                   | [Thekdar](https://github.com/samundrak/thekdar)(JavaScript)                           | [Packception](https://github.com/samundrak/packception)(NodeJS)                       | [Application Development Kit](https://github.com/samundrak/Facebook-Application-Development-Kit)(PHP)       |
-| Ashish Waghmare                   | [Udhari](https://github.com/talcrafts/udhari)(Java, Android)                            |                                                                |                                                                         |
-| Ashutosh Trivedi                  | [Voice Chain](https://github.com/codeAshu/voice-chain)(Blockchain)                        | [Minimum Feedback Vertex Set](https://github.com/codeAshu/fvs)(Genetic Algorithm)                                | [ABMS Panic Evacuation](https://github.com/codeAshu/ABMS-Panic-Evacuation)(JAVA)                       |
-| Kuldeep Pisda                     | [angularClientDjango](https://github.com/kdpisda/angularClientDjango)(TypeScript, JavaScript, HTML)                 | [Django Server for Angular Client](https://github.com/kdpisda/djangoServerForAngularClient ) (Python)      |                                                                         |
-| Mario García                      | [Community Event Platform](https://github.com/mattdark/community-event-platform)(CSS, JavaScript)| [Math Function](https://github.com/mattdark/math-function)(Python)                      |                                                                         |
-| Sepand Haghighi                   | [CSV2YAML](https://github.com/sepandhaghighi/csv2yaml)(Python, JSON, YAML, Pickle)                     | [CSV2Latex](https://github.com/sepandhaghighi/csv2latex)(Python, Latex)                    | [Telecheck](https://github.com/sepandhaghighi/telecheck)(Python)                             |
-| Mohamed Ahmed Rashad              | [Simplex](https://github.com/MohammedRashad/Simplex)(C)| [Donne](https://github.com/MohammedRashad/Donne)(Android, JAVA)                        | [RoboX](https://github.com/MohammedRashad/RoboX)(Java, Robotics)                                 |
-| Abhay Rana /  Nemo                | [Standalone API for IFSC Codes](https://github.com/razorpay/ifsc-api/)(JSON, Ruby)                          | [IFSC Codes Repository](https://github.com/razorpay/ifsc)(Ruby, PHP)                               | [Concierge](https://github.com/razorpay/concierge)(AVS, PHP, Networking)|
-| Mubaris NK                        | [Curiosity](https://github.com/mubaris/curiosity)(JavaScript, CSS)                           | [Urban Robot](https://github.com/mubaris/urban-robot)(Python)                         | [Aurora](https://github.com/gostudent/aurora)(GO Programming Language)                                     |
-| Vinay Khobragade                  | [Surface](https://github.com/feat7/Surface)(PHP)                               | [React Native Firebase Authentication](https://github.com/feat7/rnf-auth)(Redux)                              | [Meetings Manager](https://github.com/feat7/meetings-manager)(PHP)                               |
-| Sébastien Celles                  | [ExtensibleScheduler](https://github.com/scls19fr/ExtensibleScheduler.jl/)(Julia)            | [DataReaders](https://github.com/JuliaDataReaders/DataReaders.jl)(Julia)                  |                                                                         |
-| Vipul Goyal                  | [Alchem](https://github.com/alchemsynergy/alchem)(Java)            |                   |                                                                         |
-| Nikhil Mishra | [bnb2018](https://github.com/nkmishra1997/bnb2018)(MEAN Stack) | | |
-| Pankaj Baranwal | [PassBrow](https://github.com/Pankaj-Baranwal/Password-protection-for-chrome)(JS) | [Whatsapp ImagePicker](https://github.com/utkarshmttl/whatsapp-ImagePicker)(Android)| [Precisely](https://github.com/Pankaj-Baranwal/Precisely) (Android, Data Analytics, Machine Learning)|
-| Utkarsh Mittal | [rough2CAD](https://github.com/utkarshmttl/rough2CAD)(Python, Image processing) | [eModules](https://github.com/utkarshmttl/eModules)(Android)| |
+<table>
+    <tr>
+        <td>Mentor</td>
+        <td>Contact</td>
+        <td>Project 1</td>
+        <td>Project 2</td>
+        <td>Project 3</td>
+    </tr>
+    <tr>
+        <td>Nitish Sahani</td>
+        <td>Personal Chat</td>
+        <td>[Society Chat App](https://github.com/Nashua354/Society-Chat-App) (Javascript) </td>                             
+        <td>[Resume generator](https://github.com/Nashua354/Resume-Generator) (MERN Stack)</td>
+        <td>Student Attendance Tracking (Most Optimal way)</td>
+    </tr>
+    <tr>
+        <td>Jatin Katyal</td>
+        <td>Personal Chat</td>
+        <td>[Secure Digi Locker Application](https://github.com/proximus-coding-society/Digi---Locker) (Android)</td>
+        <td>TrueCaller API</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Anay Jain</td>
+        <td>Personal Chat</td>
+        <td>[NotePage](https://github.com/anay-jain/NotePage) (Java, Android )</td>
+        <td>App For Elderly</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Deepika Rawat</td>
+        <td>In - Person</td>
+        <td>[Crime Rate Prediction Using KMap](https://github.com/proximus-coding-society/Crime-Prediction---KMap) (Python)</td>
+        <td>[SQL Injection Prevention System](https://github.com/proximus-coding-society/SQL-Injection-Prevention-System) (PHP)</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Isha Gupta</td>
+        <td>In - Person</td>
+        <td>[Web Data Mining to Detect Online Spread of Terrorism](https://github.com/proximus-coding-society/Web-Data-Mining-to-Detect-Online-Spread-of-Terrorism) (Python)</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Kamal Arya</td>
+        <td>In - Person</td>
+        <td>[Strctured and Unstructured DB](https://github.com/proximus-coding-society/Strctured-and-Unstructured-DB) </td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Chitra Nasa</td>
+        <td>In - Person</td>
+        <td>[Web Data Mining and Crawler](https://github.com/proximus-coding-society/Web-Crawler) (Python)</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Vidushi</td>
+        <td>In-Person</td>
+        <td>[Face Recognition using Machine Learning](https://github.com/proximus-coding-society/Face-Recognition-Using-Machine-Learning) (ML, Python)</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Pritam Mazumdar</td>
+        <td>Mail</td>
+        <td>[Password Storage](https://github.com/Pritom14/Password-Storage) (Java, Android)</td>
+        <td>[Distress GPS](https://github.com/Pritom14/Gps) (Java, Android)</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Mukesh Pund</td>
+        <td>Slack</td>
+        <td>Personality Prediction System using CV Analysis</td>
+        <td>College Enquiry Chat bot</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td colspan='5'><center>More upcoming projects</center></td>
+    </tr>
+</table>
