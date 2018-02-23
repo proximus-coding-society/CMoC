@@ -19,14 +19,14 @@ All the selected students along with their allotted projects can be found here: 
      <td>GSOC TimeLine</td>
  </tr>
   <tr>
-    <td><strike>12 February - 20 February</strike></td>
+    <td>~~12 February - 20 February~~</td>
     <td>Mentor Registration </td>
-      <td><strike>4 January - 23 January</strike></td>
+      <td>~~4 January - 23 January~~</td>
   </tr>
   <tr>
-      <td><strike>21 February</strike></td>
+      <td>~~21 February~~</td>
     <td>Final Mentor List displayed</td>
-      <td><strike>12 February</strike> </td>
+      <td>~~12 February~~ </td>
   </tr>
   <tr>
     <td>21 February  - 5 March</td>
@@ -88,85 +88,19 @@ Student Registration : [Link](https://docs.google.com/forms/d/11FobWRD0NCcLZ_Bzc
 
 ### List of Projects available
 
-<table>
-    <tr>
-        <td>Mentor</td>
-        <td>Contact</td>
-        <td>Project 1</td>
-        <td>Project 2</td>
-        <td>Project 3</td>
-    </tr>
-    <tr>
-        <td>Nitish Sahani</td>
-        <td>Personal Chat</td>
-        <td>[Society Chat App](https://github.com/Nashua354/Society-Chat-App) (Javascript) </td>                             
-        <td>[Resume generator](https://github.com/Nashua354/Resume-Generator) (MERN Stack)</td>
-        <td>Student Attendance Tracking (Most Optimal way)</td>
-    </tr>
-    <tr>
-        <td>Jatin Katyal</td>
-        <td>Personal Chat</td>
-        <td>[Secure Digi Locker Application](https://github.com/proximus-coding-society/Digi---Locker) (Android)</td>
-        <td>TrueCaller API</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Anay Jain</td>
-        <td>Personal Chat</td>
-        <td>[NotePage](https://github.com/anay-jain/NotePage) (Java, Android )</td>
-        <td>App For Elderly</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Deepika Rawat</td>
-        <td>In - Person</td>
-        <td>[Crime Rate Prediction Using KMap](https://github.com/proximus-coding-society/Crime-Prediction---KMap) (Python)</td>
-        <td>[SQL Injection Prevention System](https://github.com/proximus-coding-society/SQL-Injection-Prevention-System) (PHP)</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Isha Gupta</td>
-        <td>In - Person</td>
-        <td>[Web Data Mining to Detect Online Spread of Terrorism](https://github.com/proximus-coding-society/Web-Data-Mining-to-Detect-Online-Spread-of-Terrorism) (Python)</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Kamal Arya</td>
-        <td>In - Person</td>
-        <td>[Strctured and Unstructured DB](https://github.com/proximus-coding-society/Strctured-and-Unstructured-DB) </td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Chitra Nasa</td>
-        <td>In - Person</td>
-        <td>[Web Data Mining and Crawler](https://github.com/proximus-coding-society/Web-Crawler) (Python)</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Vidushi</td>
-        <td>In-Person</td>
-        <td>[Face Recognition using Machine Learning](https://github.com/proximus-coding-society/Face-Recognition-Using-Machine-Learning) (ML, Python)</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Pritam Mazumdar</td>
-        <td>Mail</td>
-        <td>[Password Storage](https://github.com/Pritom14/Password-Storage) (Java, Android)</td>
-        <td>[Distress GPS](https://github.com/Pritom14/Gps) (Java, Android)</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Mukesh Pund</td>
-        <td>Slack</td>
-        <td>Personality Prediction System using CV Analysis</td>
-        <td>College Enquiry Chat bot</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td colspan='5'><center>More upcoming projects</center></td>
-    </tr>
-</table>
+
+    
+| Mentor | Contact | Project 1 | Project 2 | Project 3 |
+|--------|---------|-----------|-----------|-----------|
+|Nitish Sahani|Personal Chat|[Society Chat App](https://github.com/Nashua354/Society-Chat-App) (Javascript) |[Resume generator](https://github.com/Nashua354/Resume-Generator) (MERN Stack)|Student Attendance Tracking (Most Optimal way)|
+|Jatin Katyal|Personal Chat|[Secure Digi Locker Application](https://github.com/proximus-coding-society/Digi---Locker) (Android)|TrueCaller API|  _|
+|Anay Jain|Personal Chat|[NotePage](https://github.com/anay-jain/NotePage) (Java, Android )|App For Elderly|_|
+|Deepika Rawat|In - Person|[Crime Rate Prediction Using KMap](https://github.com/proximus-coding-society/Crime-Prediction---KMap) (Python)|[SQL Injection Prevention System](https://github.com/proximus-coding-society/SQL-Injection-Prevention-System) (PHP)|_|
+|Isha Gupta|In - Person|[Web Data Mining to Detect Online Spread of Terrorism](https://github.com/proximus-coding-society/Web-Data-Mining-to-Detect-Online-Spread-of-Terrorism) (Python)|_|_|
+|Kamal Arya|In - Person|[Strctured and Unstructured DB](https://github.com/proximus-coding-society/Strctured-and-Unstructured-DB) |_|_|
+|Chitra Nasa|In - Person|[Web Data Mining and Crawler](https://github.com/proximus-coding-society/Web-Crawler) (Python)|_|_|
+|Vidushi|In-Person|[Face Recognition using Machine Learning](https://github.com/proximus-coding-society/Face-Recognition-Using-Machine-Learning) (ML, Python)|_|_|
+|Pritam Mazumdar|Mail|[Password Storage](https://github.com/Pritom14/Password-Storage) (Java, Android)|[Distress GPS](https://github.com/Pritom14/Gps) (Java, Android)|_|
+|Mukesh Pund|Slack|Personality Prediction System using CV Analysis|College Enquiry Chat bot|_|
+*More upcoming projects *
+    
