@@ -19,14 +19,14 @@ All the selected students along with their allotted projects can be found here: 
      <td>GSOC TimeLine</td>
  </tr>
   <tr>
-    <td>~~12 February - 20 February~~</td>
+      <td><strike>12 February - 20 February</strike></td>
     <td>Mentor Registration </td>
-      <td>~~4 January - 23 January~~</td>
+      <td><strike>4 January - 23 January</strike></td>
   </tr>
   <tr>
-      <td>~~21 February~~</td>
+      <td><strike>21 February</strike></td>
     <td>Final Mentor List displayed</td>
-      <td>~~12 February~~ </td>
+      <td><strike>12 February</strike> </td>
   </tr>
   <tr>
     <td>21 February  - 5 March</td>
@@ -102,5 +102,7 @@ Student Registration : [Link](https://docs.google.com/forms/d/11FobWRD0NCcLZ_Bzc
 |Vidushi|In-Person|[Face Recognition using Machine Learning](https://github.com/proximus-coding-society/Face-Recognition-Using-Machine-Learning) (ML, Python)|_|_|
 |Pritam Mazumdar|Mail|[Password Storage](https://github.com/Pritom14/Password-Storage) (Java, Android)|[Distress GPS](https://github.com/Pritom14/Gps) (Java, Android)|_|
 |Mukesh Pund|Slack|Personality Prediction System using CV Analysis|College Enquiry Chat bot|_|
+
+
 *More upcoming projects *
     
