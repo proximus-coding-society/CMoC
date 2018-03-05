@@ -29,7 +29,7 @@ All the selected students along with their allotted projects can be found here: 
       <td><strike>12 February</strike> </td>
   </tr>
   <tr>
-    <td>21 February  - 5 March</td>
+    <td>21 February  - 6 March</td>
     <td>Student Registration  </td>
     <td>12 March - 27 March</td>
   </tr>
@@ -102,7 +102,11 @@ Student Registration : [Link](https://docs.google.com/forms/d/11FobWRD0NCcLZ_Bzc
 |Vidushi|In-Person|[Face Recognition using Machine Learning](https://github.com/proximus-coding-society/Face-Recognition-Using-Machine-Learning) (ML, Python)|_|_|
 |Pritam Mazumdar|Mail|[Password Storage](https://github.com/Pritom14/Password-Storage) (Java, Android)|[Distress GPS](https://github.com/Pritom14/Gps) (Java, Android)|_|
 |Mukesh Pund|Slack|Personality Prediction System using CV Analysis|College Enquiry Chat bot|_|
+|Nitish Sahani|Personal Chat|[Search Engine using a given Dataset](https://github.com/Nashua354/Search-Engine) (C++)| [Calender Application](https://github.com/Nashua354/Calender) (C++)| [3D Bounce](https://github.com/Nashua354/3D-Bounce) (C++, OpenGL)|
+|Nitish Sahani|Personal Chat|[Simple 3D Modeller](https://github.com/Nashua354/3D-Modeller) (C++, Qt)| [Teacher Tracker](https://github.com/Nashua354/Teacher-Tracker) (Python, Django)| [Multilanguage Compiler](https://github.com/Nashua354/Multilanguage-Compiler)|
+|Basic Projects| Tic Tac Toe | Any Managment System| Music Playing Intrument Simulator| Media Cosumption Tracker ( Tracks Movies, Tv shows, Animes etc)|
 
 
-*More upcoming projects *
+Basic projects have no language barrier. Any language can be used for them. 
+#####Basic Project's wakatime (Number of hours)  will be checked thoroughly so no code copy can take place.
     
