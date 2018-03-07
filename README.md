@@ -8,7 +8,7 @@ Proximus Coding Society is organizing a month long event similar to GSOC named a
 
 This is organized with the help of [CMoC](https://github.com/clusterinnovationcentre/CMoC)
   
-All the selected students along with their allotted projects can be found here:  Declared on 5th March
+All the selected students along with their allotted projects can be found here:  [here](https://drive.google.com/open?id=12SUF5jkw_EFsf4yo39Qkfneph2F-aJzz)
 
 ### Timeline  
   
@@ -79,7 +79,7 @@ The objectives of PMoC are,
 
 ### Registration
 
-Mentor Registration : [Link](https://docs.google.com/forms/d/1AkPfEARJn9KIeCvsiBRN6c2-1jdesEElNCoM_OHmcno/edit)
+Mentor Registration : Closed
 
 Student Registration : [Link](https://docs.google.com/forms/d/11FobWRD0NCcLZ_Bzc-dXz2QpgPVTNpo6Mq8HD3i7OUI/edit)
 
@@ -108,5 +108,6 @@ Student Registration : [Link](https://docs.google.com/forms/d/11FobWRD0NCcLZ_Bzc
 
 
 Basic projects have no language barrier. Any language can be used for them. 
-#####Basic Project's wakatime (Number of hours)  will be checked thoroughly so no code copy can take place.
+
+Basic Project's wakatime (Number of hours)  will be checked thoroughly so no code copy can take place.
     
