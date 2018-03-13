@@ -29,7 +29,7 @@ All the selected students along with their allotted projects can be found here: 
       <td><strike>12 February</strike> </td>
   </tr>
   <tr>
-    <td>21 February  - 6 March</td>
+    <td><strike>21 February  - 6 March</strike></td>
     <td>Student Registration  </td>
     <td>12 March - 27 March</td>
   </tr>
